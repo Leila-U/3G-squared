@@ -72,7 +72,7 @@ export const Para = styled.div`
   width: 100%;
 `;
 
-export const Large = styled(Link)`
+export const Large = styled.p`
   font-size: 16px;
   color: rgba(2, 7, 62, 0.8);
   text-align: ${(props) => (props.left ? 'left' : '')};

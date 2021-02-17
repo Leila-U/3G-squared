@@ -34,60 +34,80 @@ const Footer = ({ t }) => {
         <S.Footer>
           <Container>
             <Row type="flex" justify="space-between">
+
+              {/* Contact */}
               <Col lg={10} md={10} sm={12} xs={24}>
                 <S.Language>{t("Contact")}</S.Language>
                 <S.Large to="/">{t("Tell us everything")}</S.Large>
                 <S.Para>
                   {t(
-                    `Do you have any question regarding the project? Feel free to reach out.`
+                    `Feel free to reach out about the App.`
                   )}
                 </S.Para>
-                <a href="mailto:l.qqbadze@gmail.com">
+                <a href="mailto:leila.uy@mail.utoronto.ca">
                   <S.Chat>{t(`Let's Chat`)}</S.Chat>
                 </a>
               </Col>
+              
+              {/* Tools */}
               <Col lg={8} md={8} sm={12} xs={24}>
-                <S.Title>{t("Policy")}</S.Title>
-                <S.Large to="/" left="true">
-                  {t("Application Security")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Software Principles")}
-                </S.Large>
+                <S.Title>{t("Tools")}</S.Title>
+                <a href="https://www.arcgis.com/index.html">
+                  <S.Large>
+                    {t("ArcGIS Online")}
+                  </S.Large>
+                </a>
+                <a href="https://storymaps.arcgis.com/">
+                  <S.Large>
+                    {t("ESRI StoryMaps")}
+                  </S.Large>
+                </a>
               </Col>
               <Col lg={6} md={6} sm={12} xs={24}>
                 <S.Empty />
-                <S.Large left="true" to="/">
-                  {t("Support Center")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Customer Support")}
-                </S.Large>
+                <a href="https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg">
+                  <S.Large>
+                    {t("ESRI Youtube")}
+                  </S.Large>
+                </a>
+                <a href="https://github.com/Adrinlol/landy-react-template">
+                  <S.Large>
+                    {t("Landy React Template")}
+                  </S.Large>
+                </a>
               </Col>
             </Row>
             <Row type="flex" justify="space-between">
+
+              {/* UTM Address */}
               <Col lg={10} md={10} sm={12} xs={24}>
-                <S.Empty />
                 <S.Language>{t("ADDRESS")}</S.Language>
-                <S.Para>Rancho Santa Margarita</S.Para>
-                <S.Para>2131 Elk Street</S.Para>
-                <S.Para>California</S.Para>
+                <S.Para>University of Toronto Mississauga</S.Para>
+                <S.Para>3359 Mississauga Rd</S.Para>
+                <S.Para>Mississauga</S.Para>
               </Col>
+
+              {/* Team */}
               <Col lg={8} md={8} sm={12} xs={24}>
-                <S.Title>{t("Company")}</S.Title>
-                <S.Large left="true" to="/">
-                  {t("About")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Blog")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Press")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Careers & Culture")}
-                </S.Large>
+                <S.Title>{t("Team")}</S.Title>
+                <a href="https://www.linkedin.com/in/leila-uy-306272180">
+                  <S.Large>
+                    {t("Leila Uy")}
+                  </S.Large>
+                </a>
+                <a href="https://www.linkedin.com/in/nicole-mgl/">
+                  <S.Large>
+                    {t("Nika Moguilevskaia")}
+                  </S.Large>
+                </a>
+                <a href="https://storymaps.arcgis.com/">
+                  <S.Large>
+                    {t("*Priya Patel")}
+                  </S.Large>
+                </a>
               </Col>
+
+              {/*Language */}
               <Col lg={6} md={6} sm={12} xs={24}>
                 <S.Select>
                   <S.Label htmlFor="select-lang">{t("Language")}</S.Label>
@@ -97,7 +117,6 @@ const Footer = ({ t }) => {
                     id="select-lang"
                   >
                     <option value="en">English</option>
-                    <option value="es">Español</option>
                   </S.LangSelect>
                 </S.Select>
               </Col>
@@ -124,23 +143,23 @@ const Footer = ({ t }) => {
               </S.NavLink>
               <S.FooterContainer>
                 <SocialLink
-                  href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                  href="https://github.com/Leila-U/3G-squared"
                   src="github.svg"
                 />
                 <SocialLink
-                  href="https://twitter.com/Adrinlolx"
+                  href="https://twitter.com/esricanada?lang=en"
                   src="twitter.svg"
                 />
                 <SocialLink
-                  href="https://www.linkedin.com/in/lasha-kakabadze/"
+                  href="https://www.linkedin.com/company/esri/"
                   src="linkedin.svg"
                 />
                 <SocialLink
-                  href="https://github.com/Adrinlol/"
+                  href="https://www.instagram.com/esricanada/?hl=en"
                   src="instagram.svg"
                 />
                 <SocialLink
-                  href="https://medium.com/@lashakakabadze/"
+                  href="https://medium.com/@Esri"
                   src="medium.svg"
                 />
               </S.FooterContainer>
