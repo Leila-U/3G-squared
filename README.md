@@ -78,7 +78,7 @@ Leila is a 4th year undergraduate student in the GIS major with minors in Comput
 <a name="tools"/></a>
 
 ## 7. Tools
-- 🌐 [link](https://www.arcgis.com/index.html)
-- 📖 [link](https://storymaps.arcgis.com/)
-- 📽️ [link](https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg)
-- 🖥️ [link](https://github.com/Adrinlol/landy-react-template)
+- 🌐 [ArcGis Online](https://www.arcgis.com/index.html)
+- 📖 [ESRI StoryMaps](https://storymaps.arcgis.com/)
+- 📽️ [ESRI Videos](https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg)
+- 🖥️ [Landy React Template](https://github.com/Adrinlol/landy-react-template)
