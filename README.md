@@ -42,15 +42,17 @@ Median income data was shown from 2005 to 2015. The growth rate is estimated as 
 <a name="team"/></a>
 
 ## 5. Team
-![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/3g-squared-client/public/img/svg/Priya_Patel.png)
+![alt text](https://github.com/Leila-U/3G-squared/tree/landy-landing-page/img/Priya_Patel_icon.png)
 - **Priya Patel**
 
 Priya is a graduate student in the Department of Geography at the University of Toronto. She has a background in engineering and has previous consulting experience. Her current research is focused on modeling urban air quality using satellite remote sensing data.
 
+![alt text](https://github.com/Leila-U/3G-squared/tree/landy-landing-page/img/Nika_Moguilevskaia_icon.png)
 - **Nicole Moguilevskaia**
 
 Nicole is a 3rd year undergraduate student studying GIS, Computer Science, and Math at the University of Toronto. When she is not studying, she is working as a graphic designer for an on school organization empowering women in STEM called WiSC.
 
+![alt text](https://github.com/Leila-U/3G-squared/tree/landy-landing-page/img/Leila_Uy.png)
 - **Leila Uy**
 
 Leila is a 4th year undergraduate student in the GIS major with minors in Computer Science and Math at UTM. She is interested in using her skills in GIS and computer science to battle the environmental and social problems in the contemporary world. In her free time, you can find her painting, finding good dessert places with her friends, playing video games, or making origami.
