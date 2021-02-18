@@ -1,7 +1,11 @@
 # 3G-squared: HOMEwork
+![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/logo-vector-01.svg)
+
 <!-- Introduction -->
 ## Introduction
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/Landy.gif)
+Enjoy our app here.
+Or clone our repo to host our landing page.
 
 <!-- Table of contents (Links) -->
 ## Table of Contents
@@ -11,6 +15,7 @@
 4. [ Video ](#video)
 5. [ Team ](#team)
 6. [ Sources ](#sources)
+7. [ Tools ](#tools)
 
 <a name="mission-statement"></a>
 
