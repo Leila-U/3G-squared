@@ -4,18 +4,27 @@
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/Landy.gif)
 
 <!-- Table of contents (Links) -->
-### Table of contents
-[Mission Statement](#mission_statement)
+### Table of Contents
+- [Mission Statement](#mission_statement)
+- [Date Collection](#data_collection)
+- [Features](#features)
+- [Video](#videos)
+- [Team](#team)
+- [sources](#sources)
+
 
 <a name="mission_statement"/>
 <!-- Mission Statement -->
+### Mission Statement
 The goal of [app] is to provide urban planners and municipal zoning officials with a spatial reference on potential areas within their districts that may result in housing inequality. This online repository uses housing price and median income information from ______ and Statistics Canada to provide an estimate of the current housing economy, as well as forecasts for the UN 2030 goal of reducing inequality.
 
+<a name="data_collection"/>
 <!-- Data collection -->
 The projected rent and income calculations were based off historical census data. The average monthly rent costs were dated from 1992 to 2019. From these, we extrapolated growth rates and the rates of the growth rates to find the most accurate projected growth. Each one was applied annually until the United Nations' target year of 2030.
 
 Median income data was shown from 2005 to 2015. The growth rate is estimated as there is no annual data supplied between the two years in the dataset. The same process was applied to estimate the growth rate.
 
+<a name="features"/>
 <!-- Features -->
 - 🧠 **Easy to understand** - No experience in GIS or data analysis needed.
 - 🧹 **Clean UI** - Easy-to-use user interface for an effortless and trouble-free experience.
@@ -24,11 +33,14 @@ Median income data was shown from 2005 to 2015. The growth rate is estimated as 
 - ✍️ **Written Analysis** - Broken down write-ups for easy comprehension of the results.
 - 📚 **Resources** - Sources provided for further research and applications.
 
+<a name="video"/>
 <!-- Video -->
 
 
+<a name="team"/>
 <!-- Team -->
 
+<a name="sources"/>
 <!-- Sources-->
 |Data| Source |
 |--|--|
