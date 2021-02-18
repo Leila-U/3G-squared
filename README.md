@@ -74,3 +74,11 @@ Leila is a 4th year undergraduate student in the GIS major with minors in Comput
 |Minimum income criteria|[link](http://www.ohrc.on.ca/en/human-rights-and-rental-housing-ontario-background-paper/minimum-income-criteria)|
 |Census, Income from 2005 to 2015|[link](https://tinyurl.com/yc8h5unl)|
 |Average Rent of Cities in Canada|[link](https://tinyurl.com/ydbumdsv)|
+
+<a name="tools"/></a>
+
+## 7. Tools
+- 🌐 [link](https://www.arcgis.com/index.html)
+- 📖 [link](https://storymaps.arcgis.com/)
+- 📽️ [link](https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg)
+- 🖥️ [link](https://github.com/Adrinlol/landy-react-template)
