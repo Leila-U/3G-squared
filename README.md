@@ -1,5 +1,6 @@
-# 3G-squared: HOMEwork
 <img align="right" width="100" height="100" src="https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/logo-vector-01.svg">
+
+# 3G-squared: HOMEwork
 
 <!-- Introduction -->
 ## Introduction
