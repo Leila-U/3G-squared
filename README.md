@@ -20,7 +20,7 @@
 <a name="mission-statement"></a>
 
 ## 1. Mission Statement
-The goal of [app] is to provide urban planners and municipal zoning officials with a spatial reference on potential areas within their districts that may result in housing inequality. This online repository uses housing price and median income information from ______ and Statistics Canada to provide an estimate of the current housing economy, as well as forecasts for the UN 2030 goal of reducing inequality.
+The goal of HOMEwork is to provide urban planners and municipal zoning officials with a spatial reference on potential areas within their districts that may result in housing inequality. This online repository uses housing price and median income information from open municipal and Statistics Canada data to provide an estimate of the current housing economy, as well as forecasts for the UN 2030 goal of reducing inequality.
 
 <a name="data-collection"></a>
 
