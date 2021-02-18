@@ -8,12 +8,19 @@ import Button from "../../../common/Button";
 import * as S from "./styles";
 
 const RightBlock = ({ title, content, button, icon, t, id }) => {
+  //Learn More Button Click
   const scrollTo = (id) => {
     const element = document.getElementById(id);
     element.scrollIntoView({
       behavior: "smooth",
     });
   };
+
+  //Try the App Button Click -> Sends to StoryMap
+  const handleClick = () => {
+    window.location.assign('https://arcg.is/fyame');
+  }
+
   return (
     <S.RightBlockContainer>
       <Row type="flex" justify="space-between" align="middle" id={id}>
@@ -23,20 +30,25 @@ const RightBlock = ({ title, content, button, icon, t, id }) => {
               <h6>{t(title)}</h6>
               <S.Content>{t(content)}</S.Content>
               <S.ButtonWrapper>
-                {button &&
+              {button &&
                   typeof button === "object" &&
-                  button.map((item, id) => {
-                    return (
-                      <Button
-                        key={id}
-                        color={item.color}
-                        width="true"
-                        onClick={() => scrollTo("about")}
-                      >
-                        {t(item.title)}
-                      </Button>
-                    );
-                  })}
+                  <>
+                  <Button
+                  color={button[0].color}
+                  width="true"
+                  onClick={handleClick}
+                  >
+                    {t(button[0].title)}
+                  </Button>
+                  <Button
+                    color={button[1].color}
+                    width="true"
+                    onClick={() => scrollTo("team")}
+                    >
+                      {t(button[1].title)}
+                  </Button>
+                  </>
+                }
               </S.ButtonWrapper>
             </S.ContentWrapper>
           </Slide>

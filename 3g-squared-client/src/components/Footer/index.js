@@ -100,9 +100,9 @@ const Footer = ({ t }) => {
                     {t("Nika Moguilevskaia")}
                   </S.Large>
                 </a>
-                <a href="https://storymaps.arcgis.com/">
+                <a href="https://www.linkedin.com/in/priyapatel03/">
                   <S.Large>
-                    {t("*Priya Patel")}
+                    {t("Priya Patel")}
                   </S.Large>
                 </a>
               </Col>

@@ -10,6 +10,31 @@ import ReactPlayer from "react-player";
 
 const VideoContentBlock = ({ icon, title, content, section, t, id }) => {
   return (
+    <S.RightBlockContainer>
+    <Row type="flex" justify="space-between" align="middle" id={id}>
+      <Col lg={11} md={11} sm={11} xs={24}>
+        <Slide left>
+          <S.ContentWrapper>
+          <h6>{t(title)}</h6>
+            <S.ServiceWrapper>
+              <ReactPlayer url={content}/>
+            </S.ServiceWrapper>
+          </S.ContentWrapper>
+        </Slide>
+      </Col>
+      <Col lg={11} md={11} sm={12} xs={24}>
+        <Slide right>
+          <SvgIcon
+            src={icon}
+            className="about-block-image"
+            width="100%"
+            height="100%"
+          />
+        </Slide>
+      </Col>
+    </Row>
+  </S.RightBlockContainer>
+/*
     <S.LeftContentBlock>
       <Row type="flex" justify="space-between" align="middle" id={id}>
         <Col lg={11} md={11} sm={12} xs={24}>
@@ -34,7 +59,8 @@ const VideoContentBlock = ({ icon, title, content, section, t, id }) => {
         </Col>
       </Row>
     </S.LeftContentBlock>
-  );
+  */
+    );
 };
 
 export default withTranslation()(VideoContentBlock);

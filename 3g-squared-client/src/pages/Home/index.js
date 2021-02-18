@@ -1,5 +1,6 @@
 import { lazy } from "react";
 
+import AboutContent from "../../content/AboutContent.json";
 import IntroContent from "../../content/IntroContent.json";
 import MiddleBlockContent from "../../content/MiddleBlockContent.json";
 import TeamContent from "../../content/TeamContent.json";
@@ -26,20 +27,23 @@ const Home = () => {
         icon="team at work_solid I.svg"
         id="intro"
       />
+      
       {/* Inspired by UN */}
       <MiddleBlock
         title={MiddleBlockContent.title}
         content={MiddleBlockContent.text}
         button={MiddleBlockContent.button}
       />
-      {/* Our Team*/}
+
+      {/* About the App */}
       <ContentBlock
         type="left"
-        title={TeamContent.title}
-        section={TeamContent.section}
-        icon="team_solid III.svg"
+        title={AboutContent.title}
+        content={AboutContent.text}
+        icon="graphs.svg"
         id="about"
       />
+
       {/* Mission Statement */}
       <ContentBlock
         type="right"
@@ -48,6 +52,16 @@ const Home = () => {
         icon="product-launch.svg"
         id="mission"
       />
+
+      {/* Our Team*/}
+      <ContentBlock
+        type="left"
+        title={TeamContent.title}
+        section={TeamContent.section}
+        icon="team_solid III.svg"
+        id="team"
+      />
+
     {/* Video */}
       <ContentBlock
         type="video"
