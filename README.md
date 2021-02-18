@@ -8,7 +8,7 @@
 1. [ Mission Statement ](#mission-statement)
 2. [ Data Collection ](#data-collection)
 3. [ Features ](#features)
-4. [ Video ](#videos)
+4. [ Video ](#video)
 5. [ Team ](#team)
 6. [ Sources ](#sources)
 
@@ -42,7 +42,14 @@ Median income data was shown from 2005 to 2015. The growth rate is estimated as 
 <a name="team"/></a>
 
 ## 5. Team
-<!-- Team -->
+- **Priya Patel**
+Priya is a graduate student in the Department of Geography at the University of Toronto. She has a background in engineering and has previous consulting experience. Her current research is focused on modeling urban air quality using satellite remote sensing data.
+
+- **Nicole Moguilevskaia**
+Nicole is a 3rd year undergraduate student studying GIS, Computer Science, and Math at the University of Toronto. When she is not studying, she is working as a graphic designer for an on school organization empowering women in STEM called WiSC.
+
+- **Leila Uy**
+Leila is a 4th year undergraduate student in the GIS major with minors in Computer Science and Math at UTM. She is interested in using her skills in GIS and computer science to battle the environmental and social problems in the contemporary world. In her free time, you can find her painting, finding good dessert places with her friends, playing video games, or making origami.
 
 <a name="sources"/></a>
 
