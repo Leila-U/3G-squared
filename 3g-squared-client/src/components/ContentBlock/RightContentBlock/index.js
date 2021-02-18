@@ -43,7 +43,7 @@ const RightBlock = ({ title, content, button, icon, t, id }) => {
                   <Button
                     color={button[1].color}
                     width="true"
-                    onClick={() => scrollTo("team")}
+                    onClick={() => scrollTo("about")}
                     >
                       {t(button[1].title)}
                   </Button>
