@@ -5,15 +5,13 @@
 
 <!-- Table of contents (Links) -->
 ### Table of Contents
-- [Mission Statement](#mission_statement)
-- [Date Collection](#data_collection)
+- [Mission Statement](###mission_statement)
+- [Data Collection](#data_collection)
 - [Features](#features)
 - [Video](#videos)
 - [Team](#team)
-- [sources](#sources)
+- [Sources](#sources)
 
-
-<a name="mission_statement"/>
 <!-- Mission Statement -->
 ### Mission Statement
 The goal of [app] is to provide urban planners and municipal zoning officials with a spatial reference on potential areas within their districts that may result in housing inequality. This online repository uses housing price and median income information from ______ and Statistics Canada to provide an estimate of the current housing economy, as well as forecasts for the UN 2030 goal of reducing inequality.
