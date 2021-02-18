@@ -1,29 +1,32 @@
 # 3G-squared: HOMEwork
 <!-- Introduction -->
-### Introduction
+## Introduction
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/Landy.gif)
 
 <!-- Table of contents (Links) -->
-### Table of Contents
-- [Mission Statement](#mission_statement)
-- [Data Collection](#data_collection)
-- [Features](#features)
-- [Video](#videos)
-- [Team](#team)
-- [Sources](#sources)
+## Table of Contents
+1. [ Mission Statement ](#mission-statement)
+2. [ Data Collection ](#data-collection)
+3. [ Features ](#features)
+4. [ Video ](#videos)
+5. [ Team ](#team)
+6. [ Sources ](#sources)
 
-## Mission Statement
-<!-- Mission Statement -->
+<a name="mission-statement"></a>
+
+## 1. Mission Statement
 The goal of [app] is to provide urban planners and municipal zoning officials with a spatial reference on potential areas within their districts that may result in housing inequality. This online repository uses housing price and median income information from ______ and Statistics Canada to provide an estimate of the current housing economy, as well as forecasts for the UN 2030 goal of reducing inequality.
 
-<a name="data_collection"/>
-<!-- Data collection -->
+<a name="data-collection"></a>
+
+## 2. Data Collection
 The projected rent and income calculations were based off historical census data. The average monthly rent costs were dated from 1992 to 2019. From these, we extrapolated growth rates and the rates of the growth rates to find the most accurate projected growth. Each one was applied annually until the United Nations' target year of 2030.
 
 Median income data was shown from 2005 to 2015. The growth rate is estimated as there is no annual data supplied between the two years in the dataset. The same process was applied to estimate the growth rate.
 
-<a name="features"/>
-<!-- Features -->
+<a name="features"></a>
+
+## 3. Features
 - 🧠 **Easy to understand** - No experience in GIS or data analysis needed.
 - 🧹 **Clean UI** - Easy-to-use user interface for an effortless and trouble-free experience.
 - 🗺️ **Interactive Maps** - Each section inside the story map includes a map to help visualize the data and results.
@@ -31,15 +34,19 @@ Median income data was shown from 2005 to 2015. The growth rate is estimated as 
 - ✍️ **Written Analysis** - Broken down write-ups for easy comprehension of the results.
 - 📚 **Resources** - Sources provided for further research and applications.
 
-<a name="video"/>
+<a name="video"/></a>
+
+## 4. Video
 <!-- Video -->
 
+<a name="team"/></a>
 
-<a name="team"/>
+## 5. Team
 <!-- Team -->
 
-<a name="sources"/>
-<!-- Sources-->
+<a name="sources"/></a>
+
+## 6. Sources
 |Data| Source |
 |--|--|
 | Median household total income in 2015 |  [link](https://www12.statcan.gc.ca/census-recensement/2016/geo/map-carte/ref/thematic-thematiques/inc-rev/map-eng.cfm?TYPE=1)|
