@@ -5,8 +5,8 @@
 <!-- Introduction -->
 ## Introduction
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/Landy.gif)
-Enjoy our app here.
-Or clone our repo to host our landing page.
+
+Enjoy our app or clone our repo to host our landing page on your own.
 
 <!-- Table of contents (Links) -->
 ## Table of Contents
