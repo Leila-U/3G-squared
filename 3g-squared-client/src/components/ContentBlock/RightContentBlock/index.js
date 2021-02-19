@@ -18,7 +18,7 @@ const RightBlock = ({ title, content, button, icon, t, id }) => {
 
   //Try the App Button Click -> Sends to StoryMap
   const handleClick = () => {
-    window.location.assign('https://arcg.is/fyame');
+    window.location.assign('https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde');
   }
 
   return (

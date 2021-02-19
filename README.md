@@ -4,8 +4,9 @@
 
 <!-- Introduction -->
 ## Introduction
-![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/Landy.gif)
-> Enjoy our app or clone our repo to host our landing page on your own.
+![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/app_preview.gif)
+> Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fd)
+> Clone our repo to host our landing page on your own.
 
 <!-- Table of contents (Links) -->
 ## Table of Contents
@@ -81,4 +82,5 @@ Leila is a 4th year undergraduate student in the GIS major with minors in Comput
 - 🌐 [ArcGis Online](https://www.arcgis.com/index.html)
 - 📖 [ESRI StoryMaps](https://storymaps.arcgis.com/)
 - 📽️ [ESRI Videos](https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg)
-- 🖥️ [Landy React Template](https://github.com/Adrinlol/landy-react-template)
+- 🖥️ [Landy | React Template](https://github.com/Adrinlol/landy-react-template)
+- 🎬 [Pexel | Stock Videos](https://www.pexels.com/videos/)
