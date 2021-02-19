@@ -5,7 +5,7 @@
 <!-- Introduction -->
 ## Introduction
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/app_preview.gif)
-> Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fd)
+> Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde)
 > Clone our repo to host our landing page on your own.
 
 <!-- Table of contents (Links) -->
