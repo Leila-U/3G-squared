@@ -6,15 +6,15 @@
 ## Introduction
 ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/app_preview.gif)
 
-A React app landing page and a story map app fused together to create a easy-to-use and informative experience for the user.
+A React app landing page and an ESRI story map app fused together to create a easy-to-use and informative experience for the user.
 
 ## Instructions to Run
 
-Quick start option:
+**Quick start option:**
 
 > Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde)
 
-Landing page and hosting option:
+**Landing page and hosting option:**
 
 > Clone our repo to host our landing page on your local address.
 
