@@ -6,10 +6,22 @@
 ## Introduction
 ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/app_preview.gif)
 
-A React app landing page and an ESRI story map app fused together to create a easy-to-use and informative experience for the user.
+A React app landing page and an ESRI story map app fused together to create an easy-to-use and informative experience for the user.
 
-## Instructions to Run
+<!-- Table of contents (Links) -->
+## Table of Contents
+1. [Instructions to Run](#instructions)
+2. [ Mission Statement ](#mission-statement)
+3. [ Data Collection ](#data-collection)
+4. [ Features ](#features)
+5. [ Video ](#video)
+6. [ Team ](#team)
+7. [ Sources ](#sources)
+8. [ Tools ](#tools)
 
+<a name="instructions"></a>
+
+## 1. Instructions to Run
 **Quick start option:**
 
 Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde)
@@ -30,32 +42,21 @@ Clone our repo to host our landing page on your local address.
 
 > Open up your preferred browser and go to where you are running the react app.
 
-
-<!-- Table of contents (Links) -->
-## Table of Contents
-1. [ Mission Statement ](#mission-statement)
-2. [ Data Collection ](#data-collection)
-3. [ Features ](#features)
-4. [ Video ](#video)
-5. [ Team ](#team)
-6. [ Sources ](#sources)
-7. [ Tools ](#tools)
-
 <a name="mission-statement"></a>
 
-## 1. Mission Statement
+## 2. Mission Statement
 The goal of HOMEwork is to provide urban planners and municipal zoning officials with a spatial reference on potential areas within their districts that may result in housing inequality. This online repository uses housing price and median income information from open municipal and Statistics Canada data to provide an estimate of the current housing economy, as well as forecasts for the UN 2030 goal of reducing inequality.
 
 <a name="data-collection"></a>
 
-## 2. Data Collection
+## 3. Data Collection
 The projected rent and income calculations were based off historical census data. The average monthly rent costs were dated from 1992 to 2019. From these, we extrapolated growth rates and the rates of the growth rates to find the most accurate projected growth. Each one was applied annually until the United Nations' target year of 2030.
 
 Median income data was shown from 2005 to 2015. The growth rate is estimated as there is no annual data supplied between the two years in the dataset. The same process was applied to estimate the growth rate.
 
 <a name="features"></a>
 
-## 3. Features
+## 4. Features
 - 🧠 **Easy to understand** - No experience in GIS or data analysis needed.
 - 🧹 **Clean UI** - Easy-to-use user interface for an effortless and trouble-free experience.
 - 🗺️ **Interactive Maps** - Each section inside the story map includes a map to help visualize the data and results.
@@ -65,12 +66,12 @@ Median income data was shown from 2005 to 2015. The growth rate is estimated as 
 
 <a name="video"/></a>
 
-## 4. Video
+## 5. Video
 🔗 [App Demo and Introduction](https://youtu.be/xFXNLsEMcC8)
 
 <a name="team"/></a>
 
-## 5. Team
+## 6. Team
 ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Priya_Patel_icon.png)
 - **Priya Patel**
 
@@ -88,7 +89,7 @@ Leila is a 4th year undergraduate student in the GIS major with minors in Comput
 
 <a name="sources"/></a>
 
-## 6. Sources
+## 7. Sources
 |Data| Source |
 |--|--|
 | Median household total income in 2015 |  [link](https://www12.statcan.gc.ca/census-recensement/2016/geo/map-carte/ref/thematic-thematiques/inc-rev/map-eng.cfm?TYPE=1)|
@@ -101,7 +102,7 @@ Leila is a 4th year undergraduate student in the GIS major with minors in Comput
 
 <a name="tools"/></a>
 
-## 7. Tools
+## 8. Tools
 - 🌐 [ArcGis Online](https://www.arcgis.com/index.html)
 - 📖 [ESRI StoryMaps](https://storymaps.arcgis.com/)
 - 📽️ [ESRI Videos](https://www.youtube.com/channel/UCwAw9sorqR55IN6e_IyaUKg)
