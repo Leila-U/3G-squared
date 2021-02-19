@@ -44,7 +44,7 @@ Median income data was shown from 2005 to 2015. The growth rate is estimated as 
 <a name="video"/></a>
 
 ## 4. Video
-<!-- Video -->
+🔗 [App Demo and Introduction](https://youtu.be/xFXNLsEMcC8)
 
 <a name="team"/></a>
 
