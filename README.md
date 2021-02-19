@@ -7,7 +7,15 @@
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/app_preview.gif)
 > Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde)
 
-> Clone our repo to host our landing page on your own.
+> Clone our repo to host our landing page on your local address.
+
+>> Once cloned, in terminal go to folder where cloned folder is located.
+
+>> ``cd .\3g-squared-client\``
+
+>> ``npm install -g serve``
+
+>> ``serve -s build``
 
 <!-- Table of contents (Links) -->
 ## Table of Contents
