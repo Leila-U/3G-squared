@@ -16,6 +16,7 @@
 >> ``npm install -g serve``
 
 >> ``serve -s build``
+
 ![alt text](https://github.com/Leila-U/3G-squared/blob/landy-landing-page/img/Instruction_terminal.jpg)
 
 >> Open up your preferred browser and go to where you are running the react app.
