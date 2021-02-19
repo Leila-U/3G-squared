@@ -12,23 +12,23 @@ A React app landing page and an ESRI story map app fused together to create a ea
 
 **Quick start option:**
 
-> Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde)
+Quick start our [app](https://storymaps.arcgis.com/stories/ebf658dcec894c0fbe90549d2e631fde)
 
 **Landing page and hosting option:**
 
-> Clone our repo to host our landing page on your local address.
+Clone our repo to host our landing page on your local address.
 
->> Once cloned, in terminal go to where your folder is located.
+> Once cloned, in terminal go to where your folder is located.
 
->> ``cd 3g-squared-client``
+> ``cd 3g-squared-client``
 
->> ``npm install -g serve``
+> ``npm install -g serve``
 
->> ``serve -s build``
+> ``serve -s build``
 
-![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Instruction_terminal.jpg)
+>> ![alt text](https://github.com/Leila-U/3G-squared/blob/main/img/Instruction_terminal.jpg)
 
->> Open up your preferred browser and go to where you are running the react app.
+> Open up your preferred browser and go to where you are running the react app.
 
 
 <!-- Table of contents (Links) -->
