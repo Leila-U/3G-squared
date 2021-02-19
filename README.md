@@ -9,9 +9,9 @@
 
 > Clone our repo to host our landing page on your local address.
 
->> Once cloned, in terminal go to folder where cloned folder is located.
+>> Once cloned, in terminal go to where your folder is located.
 
->> ``cd .\3g-squared-client\``
+>> ``cd 3g-squared-client``
 
 >> ``npm install -g serve``
 
